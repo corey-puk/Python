@@ -1,3 +1,7 @@
+''' This project takes a look at the stylometry - defined as; the statistical analysis of variations in literary style between one writer or genre and another.
+The algorithm utilises a distance function to computer the 'distance' between two texts, while it also counts the usage of certain text and/or grammar.'''
+
+
 import math as mt
 
 

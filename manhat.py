@@ -1,4 +1,7 @@
 
+# This code computes the 'manhattan distance' - the distance need to travel in a grid in 2 dimensional space. Inputs are given by lists /
+# vectors of size n
+
 def manhat(x,y):
     dist = 0
     for i in range(len(x)):

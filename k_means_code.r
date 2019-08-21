@@ -1,3 +1,6 @@
+# To be used in conjuction with k_means.zip file
+
+
 x <- as.data.frame(data[,c(5,8,9,10)])
 ncp <- length(unique(x$Predation)) #Number of classes of Predation
 ncd <- length(unique(x$Danger)) #Number of classes of Danger

@@ -1,4 +1,4 @@
-def addmats(a,b):
+def addmats(mat1,mat2):
     # check if matrices are similar length
     check1 = len(mat1[0])
     check2 = len(mat2[0])

@@ -42,7 +42,7 @@ x_pca = pca.transform(scaled_data)
 
 
 
-# Reduce to 2 rows of data across 30 variables?
+# Reduce to 2 rows of data across 30 variables
 
 
 plt.figure(figsize=(8,6))
